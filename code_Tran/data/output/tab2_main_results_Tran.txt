@@ -1,0 +1,14 @@
+		(1)
+VARIABLES	LABELS	Main
+		
+c.qual_rate#c.pre_exposure_z		-0.0145
+		(0.0128)
+Constant	Constant	-0.5148***
+		(0.0253)
+		
+Observations		288
+Number of market_id		36
+R-squared		0.781
+Within R-sq		0.781
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

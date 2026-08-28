@@ -1,0 +1,78 @@
+﻿"Labour force characteristics by census metropolitan area, annual 1 2"
+"Frequency: Annual"
+"Table: 14-10-0461-01"
+"Release date: 2026-01-09"
+"Geography: Census metropolitan area, Census metropolitan area part"
+""
+""
+
+"Labour force characteristics","Unemployment rate 3",,,,,,,,,
+"Gender 4 5","Total - Gender",,,,,,,,,
+"Age group","15 years and over",,,,,,,,,
+"Geography 6 7 8","2016","2017","2018","2019","2020","2021","2022","2023","2024","2025"
+,"Percent",,,,,,,,,
+"St. John's, Newfoundland and Labrador","7.9","8.5","8.4","7.4","10.4","8.3","6.7","6.0","6.9","7.2"
+"Halifax, Nova Scotia","6.0","6.8","6.1","5.8","8.8","7.5","4.9","5.4","5.5","5.6"
+"Moncton, New Brunswick","7.2","6.4","5.8","5.6","8.5","7.5","4.7","5.5","5.4","6.1"
+"Saint John, New Brunswick","7.8","5.9","6.2","6.8","10.3","9.4","6.9","5.3","6.3","7.1"
+"Fredericton, New Brunswick 9","7.3","6.3","6.7","5.8","8.0","6.3","5.6","4.6","5.8","6.3"
+"Saguenay, Quebec","8.5","7.5","6.7","5.2","8.3","5.2","4.4","3.6","3.0","4.3"
+"Québec, Quebec","4.8","4.2","3.7","3.1","6.8","4.1","2.9","2.7","3.9","4.2"
+"Sherbrooke, Quebec","6.3","5.9","4.9","4.2","7.6","4.7","3.2","4.3","5.0","5.0"
+"Trois-Rivières, Quebec","7.2","5.8","5.1","5.5","8.0","5.0","3.4","4.2","5.9","4.9"
+"Drummondville, Québec  9","6.5","6.9","5.2","4.8","7.8","6.0","x","3.0","4.5","5.8"
+"Montréal, Quebec","7.8","6.6","6.1","5.6","10.1","6.9","4.9","5.2","6.2","6.4"
+"Ottawa-Gatineau, Ontario/Quebec","6.5","5.7","4.6","4.9","7.6","5.8","4.1","4.4","5.7","6.6"
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec","7.2","5.5","4.6","4.9","8.2","5.3","3.7","4.3","5.9","6.6"
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec","6.3","5.7","4.6","4.8","7.4","6.0","4.2","4.5","5.7","6.5"
+"Kingston, Ontario","5.9","5.5","5.8","5.5","8.6","7.5","5.5","4.7","6.3","6.7"
+"Belleville - Quinte West, Ontario 9","9.3","9.9","4.1","8.2","10.3","8.5","3.7","6.5","4.5","7.7"
+"Peterborough, Ontario 9","4.7","6.6","5.5","5.9","10.2","7.8","4.5","4.6","4.8","7.7"
+"Oshawa, Ontario","5.8","5.6","5.1","5.4","9.9","7.8","5.2","5.6","6.8","8.7"
+"Toronto, Ontario","7.0","6.6","6.0","5.9","11.0","9.2","6.3","6.3","8.0","8.6"
+"Hamilton, Ontario","6.1","5.1","5.0","4.3","9.0","6.9","4.9","5.4","6.8","7.0"
+"St. Catharines-Niagara, Ontario","7.1","6.7","6.8","5.7","10.6","10.4","5.2","5.8","7.5","6.9"
+"Kitchener-Cambridge-Waterloo, Ontario","5.6","4.9","5.0","5.4","9.9","6.3","5.7","6.0","7.2","7.7"
+"Brantford, Ontario","6.5","5.1","6.2","4.3","8.8","7.1","5.1","4.6","5.4","8.0"
+"Guelph, Ontario","5.0","5.5","3.9","4.5","9.5","7.0","4.2","4.5","5.0","7.1"
+"London, Ontario","7.1","6.3","5.7","5.7","8.7","7.9","5.7","5.2","6.6","6.7"
+"Windsor, Ontario","5.6","6.0","6.0","6.2","12.0","9.2","7.3","6.2","8.3","9.7"
+"Barrie, Ontario","7.3","5.4","7.0","6.1","9.1","8.1","5.5","4.8","6.1","7.7"
+"Greater Sudbury, Ontario","8.3","6.7","6.4","5.6","8.0","7.5","4.1","4.9","5.5","6.0"
+"Thunder Bay, Ontario","6.7","5.8","5.3","5.5","8.3","7.3","4.8","4.1","4.3","4.8"
+"Winnipeg, Manitoba","6.5","5.7","6.3","5.3","9.0","6.8","4.6","4.9","5.5","6.1"
+"Regina, Saskatchewan","5.4","5.2","6.1","5.4","8.4","6.8","4.9","4.9","6.3","6.0"
+"Saskatoon, Saskatchewan","7.0","8.0","6.7","5.9","9.6","7.1","4.2","5.1","5.1","5.2"
+"Lethbridge, Alberta","6.0","5.8","4.9","4.7","8.3","6.0","5.0","5.0","5.5","6.7"
+"Calgary, Alberta","9.5","8.8","7.7","7.1","11.9","9.0","6.2","6.1","7.7","7.4"
+"Red Deer, Alberta  9","9.7","7.8","5.8","8.1","13.2","10.3","6.3","6.2","8.3","7.9"
+"Edmonton, Alberta","7.5","8.3","6.4","7.3","11.9","8.8","5.9","6.1","7.5","7.7"
+"Kelowna, British Columbia","7.9","5.7","4.6","4.2","7.2","5.6","4.7","3.5","4.9","6.6"
+"Kamloops, British Columbia  9","7.4","8.9","7.3","5.6","11.7","5.8","4.8","4.7","4.8","7.8"
+"Chilliwack, British Columbia  9","5.9","x","3.9","5.9","7.3","5.4","4.0","4.5","6.2","6.8"
+"Abbotsford-Mission, British Columbia","6.6","5.6","4.5","5.2","7.8","6.7","4.8","5.3","5.7","6.7"
+"Vancouver, British Columbia","5.5","4.7","4.1","4.6","9.5","6.9","4.7","5.6","5.9","6.4"
+"Victoria, British Columbia","5.2","3.9","4.1","3.6","7.8","4.9","3.8","3.7","3.9","4.1"
+"Nanaimo, British Columbia  9","6.4","6.2","5.4","5.3","9.6","6.3","4.1","4.8","4.7","7.3"
+
+Symbol legend:
+x, suppressed to meet the confidentiality requirements of the Statistics Act
+
+
+
+
+Footnotes:
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are suppressed. Census metropolitan areas (CMAs) and economic regions (ERs) use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality. "
+2,"This new table replaces archived table 14-10-0385."
+3,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, gender, marital status, etcetera.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+4,"Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Some people may not identify with a specific gender and a person's gender may change over time. Gender includes the following concepts: gender identity, which refers to the gender that a person feels internally and individually; gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (for example, clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender. A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's license. LFS started collecting gender of person in 2022. Prior to 2022, LFS only collected information on sex of person (male or female), as declared by the respondent or recorded by the interviewer. The sex variable prior to 2022 and the two-category gender variable since 2022 are combined in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations."
+5,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary to protect the confidentiality of responses provided. Individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol. The category “Men+” includes men, as well as some non-binary persons, while the category “Women+” includes women, as well as some non-binary persons."
+6,"A census metropolitan area (CMA) is formed by one or more adjacent municipalities centred on a population centre (known as the core). A CMA must have a total population of at least 100,000 based on data from the current Census of Population, of which 50,000 or more must live in the core based on adjusted data from the previous census. To be included in the CMA, other adjacent municipalities must have a high degree of integration with the core, as measured by commuting flows derived from data on place of work from the previous census."
+7,"Excluding the territories."
+8,"From 2011 to present, census metropolitan area (CMA) boundaries are based on the 2021 Standard Geographical Classification (SGC). "
+9,"Due to a smaller sample size, estimates for this area may have more sampling variability before September 2025 and should therefore be interpreted with caution.  "
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0461-01  Labour force characteristics by census metropolitan area, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410046101

@@ -1,0 +1,15 @@
+Table 3. Robustness to HPI construction					
+		(1)	(2)	(3)	(4)
+			Composite	Composite	Composite
+VARIABLES	LABELS	Single board (primary)	approx	equal	pop_share
+					
+c.qual_rate#c.pre_exposure_z		-0.0145	-0.0136	-0.0102	-0.0133
+		(0.0128)	(0.0124)	(0.0113)	(0.0123)
+Constant	Constant	-0.5148***	-0.5174***	-0.5239***	-0.5185***
+		(0.0253)	(0.0253)	(0.0250)	(0.0253)
+					
+Observations		288	288	288	288
+R-squared		0.781	0.782	0.788	0.783
+Number of market_id		36	36	36	36
+Robust standard errors in parentheses					
+*** p<0.01, ** p<0.05, * p<0.1					

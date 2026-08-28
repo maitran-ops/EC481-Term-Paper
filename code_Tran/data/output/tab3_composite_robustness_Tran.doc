@@ -1,0 +1,25 @@
+{\rtf1\fs24
+\pard\qc
+Table 3. Robustness to HPI construction\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx4176\clbrdrt\brdrs\cellx7488\clbrdrt\brdrs\cellx9072\clbrdrt\brdrs\cellx10656\clbrdrt\brdrs\cellx12240
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4176\cellx7488\cellx9072\cellx10656\cellx12240
+\ql \cell\qc \cell\qc Composite\cell\qc Composite\cell\qc Composite\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4176\cellx7488\cellx9072\cellx10656\cellx12240
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx4176\clbrdrb\brdrs\cellx7488\clbrdrb\brdrs\cellx9072\clbrdrb\brdrs\cellx10656\clbrdrb\brdrs\cellx12240
+\ql VARIABLES\cell\qc Single board (primary)\cell\qc approx\cell\qc equal\cell\qc pop_share\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4176\cellx7488\cellx9072\cellx10656\cellx12240
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql c.qual_rate#c.pre_exposure_z\cell\qc -0.0145\cell\qc -0.0136\cell\qc -0.0102\cell\qc -0.0133\cell\row
+\ql \cell\qc (0.0128)\cell\qc (0.0124)\cell\qc (0.0113)\cell\qc (0.0123)\cell\row
+\ql Constant\cell\qc -0.5148***\cell\qc -0.5174***\cell\qc -0.5239***\cell\qc -0.5185***\cell\row
+\ql \cell\qc (0.0253)\cell\qc (0.0253)\cell\qc (0.0250)\cell\qc (0.0253)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 288\cell\qc 288\cell\qc 288\cell\qc 288\cell\row
+\ql R-squared\cell\qc 0.781\cell\qc 0.782\cell\qc 0.788\cell\qc 0.783\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx4176\clbrdrb\brdrs\cellx7488\clbrdrb\brdrs\cellx9072\clbrdrb\brdrs\cellx10656\clbrdrb\brdrs\cellx12240
+\ql Number of market_id\cell\qc 36\cell\qc 36\cell\qc 36\cell\qc 36\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

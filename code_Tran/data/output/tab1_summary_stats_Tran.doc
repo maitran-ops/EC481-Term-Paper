@@ -1,0 +1,21 @@
+{\rtf1\fs24
+\pard\qc
+Table 1. Summary statistics -- 36 Canadian CMAs, 2016-2023\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2880\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx5904\clbrdrt\brdrs\cellx7056\clbrdrt\brdrs\cellx8496
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\qc (5)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2880\cellx3456\cellx4752\cellx5904\cellx7056\cellx8496
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2880\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx5904\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx8496
+\ql VARIABLES\cell\qc N\cell\qc mean\cell\qc sd\cell\qc min\cell\qc max\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2880\cellx3456\cellx4752\cellx5904\cellx7056\cellx8496
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql benchmark_price\cell\qc 288\cell\qc 451,334\cell\qc 227,769\cell\qc 121,800\cell\qc 1.204e+06\cell\row
+\ql median_income\cell\qc 288\cell\qc 95,177\cell\qc 11,121\cell\qc 70,260\cell\qc 131,390\cell\row
+\ql qual_rate\cell\qc 288\cell\qc 7.254\cell\qc 0.624\cell\qc 6.657\cell\qc 8.684\cell\row
+\ql max_qualified_price\cell\qc 288\cell\qc 539,547\cell\qc 55,678\cell\qc 420,130\cell\qc 722,092\cell\row
+\ql affordability_gap\cell\qc 288\cell\qc -0.296\cell\qc 0.478\cell\qc -1.280\cell\qc 0.790\cell\row
+\ql price_income_ratio\cell\qc 288\cell\qc 4.708\cell\qc 2.289\cell\qc 1.619\cell\qc 12.07\cell\row
+\ql pre_exposure_z\cell\qc 288\cell\qc 5.28e-09\cell\qc 0.988\cell\qc -1.310\cell\qc 3.119\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2880\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx5904\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx8496
+\ql Number of market_id\cell\qc 36\cell\qc 36\cell\qc 36\cell\qc 36\cell\qc 36\cell\row
+}

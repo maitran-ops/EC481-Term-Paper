@@ -1,0 +1,3 @@
+This folder is where the pipeline writes the cleaned .dta panels when you run
+00_master.do in Stata (e.g. core_affordability_panel_expanded_Tran.dta, the
+36-CMA panel). starts empty; running the code fills it.

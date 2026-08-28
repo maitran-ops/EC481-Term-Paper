@@ -1,0 +1,13 @@
+Table 1. Summary statistics -- 36 Canadian CMAs, 2016-2023					
+	(1)	(2)	(3)	(4)	(5)
+VARIABLES	N	mean	sd	min	max
+					
+benchmark_price	288	451,334	227,769	121,800	1.204e+06
+median_income	288	95,177	11,121	70,260	131,390
+qual_rate	288	7.254	0.624	6.657	8.684
+max_qualified_price	288	539,547	55,678	420,130	722,092
+affordability_gap	288	-0.296	0.478	-1.280	0.790
+price_income_ratio	288	4.708	2.289	1.619	12.07
+pre_exposure_z	288	5.28e-09	0.988	-1.310	3.119
+					
+Number of market_id	36	36	36	36	36
